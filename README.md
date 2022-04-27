@@ -6,6 +6,8 @@ Final Deliverable for IndEng 185 @ UC Berkeley: Blockchain Challenge Lab
 
 Contributors: *Abrar Rahman, Armand Bechy*
 
+A loose collection of example smart contracts and UX mockups. Asked the others in the group two weeks ago to take some accountability and help with the final deliverable. That did not work out. Abrar did not have enough time to make a working prototype because 1) he was working extensively with Armand on the pitch, business model, and slides, which should have been up to the other two non-technical team members; 2) he had no support from the two other CS majors on the team; and 3) our product is broad and ambitious so any meaningful demo would take a few weeks to properly spin up.
+
 ## Introduction
 Curating your digital professional presence is a universal headache in the modern era. Jumping through the hoops of the recruiting process often forces my peers to “out-lie” each other, exaggerating qualifications because 1) there are no consequences for doing so, and 2) everyone embellishes their skills. What if there was a way to leverage emerging technologies to disrupt recruiting, bringing hiring back to a fact-based, qualification-driven ideal?
 
